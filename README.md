@@ -28,6 +28,7 @@ Animation above is a preview of the demonstration. To view a full video, find a 
 ## Links
 
 [Link to demonstration video](https://drive.google.com/file/d/1w8rDuduIiu_ZJhqRGh4AhBIpgq-UxQcR/view)
+
 Github: https://github.com/daeunkim127/E-Commerce-Backend.git
 
 
